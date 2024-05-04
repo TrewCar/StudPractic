@@ -12,6 +12,19 @@ public static class Config
     public static string DataBase = "med";
 }
 ```
-## Авторы
 
-* **ws03** - *Initial work* - [PurpleBooth](http://itb.lrmk.ru:3000/ws03)
+## Документация
+
+Для ее запуска нужен DocFX
+
+```
+dotnet tool update -g docfx
+```
+
+Соберите проект
+
+Для запуска и просмотра введите
+
+```
+docfx --serve aspnet/docfx.json
+```

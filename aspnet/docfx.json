@@ -6,7 +6,7 @@
           "files": [
             "**.csproj"
           ],
-          "src": "C:\\Users\\fasda\\source\\repos\\PROFFI_2024\\Session_5\\aspnet\\aspnet"
+          "src": "C:\\Users\\fasda\\OneDrive\\Рабочий стол\\Session_5\\aspnet\\aspnet"
         }
       ],
       "dest": "api",
